@@ -14,6 +14,7 @@
             <div class="free-label-con">
               <h2>{{ recipe.recipeName }}</h2>
               <p>{{ recipe.cuisineType }}</p>
+              <p>edit</p>
             </div>
           </div>
         </div>
